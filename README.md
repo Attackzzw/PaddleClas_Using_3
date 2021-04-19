@@ -1,4 +1,6 @@
 # PaddleClas_Using_3
+
+AiStudio:[PaddleClas全流程文档（三）](https://aistudio.baidu.com/aistudio/projectdetail/1184186)
 ### **PaddleClas全流程文档（三）：主要介绍Windows下如何C++编译，如何使用cmake生成sln解决方案，编译出exe预测程序文件，以及dll库，用于python和C#调用预测**
 ### 上一篇[部署二，Serving服务](https://aistudio.baidu.com/aistudio/projectdetail/1585531) ，下一篇[部署四，传参调用DLL](https://aistudio.baidu.com/aistudio/projectdetail/1589564)
 
